@@ -3,7 +3,7 @@
 Welcome to my github profile. Here you can find all the repositories for my current / past projects. 
 
 For more info about these projects or myself, please visit my website:
-https://steven-mu-portfolio-12.web.app
+https://steven-portfolio-12.web.app
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=steven-mu12&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
