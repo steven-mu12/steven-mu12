@@ -1,4 +1,4 @@
-### Hello, My name is Steven
+## Hello, My name is Steven
 
 Welcome to my github profile. Here you can find all the repositories for my current / past projects. 
 
