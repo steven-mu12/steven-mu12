@@ -5,6 +5,8 @@ Welcome to my github profile. Here you can find all the repositories for my curr
 For more info about these projects or myself, please visit my website:
 https://stevenmu12.web.app
 
+<img src="https://github-readme-stats.vercel.app/api?username=steven-mu12&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
 
 <!--
 **steven-mu12/steven-mu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
