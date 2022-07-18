@@ -6,6 +6,9 @@ For more info about these projects or myself, please visit my website:
 https://stevenmu12.web.app
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-mu12&layout=compact)
+
+
 <!--
 **steven-mu12/steven-mu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
