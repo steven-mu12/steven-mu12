@@ -1,4 +1,10 @@
-### Hi there 👋
+#### Hello, My name is Steven
+
+Welcome to my github profile. Here you can find all the repositories for my current / past projects. 
+
+For more info about these projects or myself, please visit my website:
+https://stevenmu12.web.app
+
 
 <!--
 **steven-mu12/steven-mu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
