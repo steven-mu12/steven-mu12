@@ -1,13 +1,30 @@
 ## Hello, My name is Steven 👋
 
-Welcome to my github profile. Here you can find all the repositories for my current / past projects. 
+Welcome to my github profile. Here you can find all the repositories for my current / past projects. I am currently a student at the University of Waterloo studying Computer Engineering.
 
 For more info about these projects or myself, please visit my website:
 https://steven-portfolio-12.web.app
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=steven-mu12&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-
+<p align="center"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+</p>
 
 <!--
 **steven-mu12/steven-mu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
