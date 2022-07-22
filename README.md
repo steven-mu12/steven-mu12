@@ -1,3 +1,5 @@
+
+
 ## Hello, My name is Steven 👋
 
 Welcome to my github profile. Here you can find all the repositories for my current / past projects. I am currently a student at the University of Waterloo studying Computer Engineering.
@@ -12,12 +14,15 @@ https://steven-portfolio-12.web.app
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>  
+  <a href = "[https://www.](https://en.wikipedia.org/wiki/C%2B%2B)" target= "_blank">
+    <img src = "https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="40" height="40"/>
+  </a>
 </p>
 
 <!--
