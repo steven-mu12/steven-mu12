@@ -27,7 +27,7 @@ https://steven-portfolio-12.web.app
     <img src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" alt="arduino" width="40" height="40"/> 
   </a>  
   <a href="https://www.reactjs.org" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="45" height="40"/> 
   </a> 
 </p>
 
