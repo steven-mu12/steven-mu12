@@ -5,7 +5,7 @@
 Welcome to my github profile. Here you can find all the repositories for my current / past projects. I am currently a student at the University of Waterloo studying Computer Engineering.
 
 For more info about these projects or myself, please visit my website:
-https://steven-portfolio-12.web.app
+https://stevenmu.me
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
