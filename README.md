@@ -21,7 +21,7 @@ https://steven-portfolio-12.web.app
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>  
   <a href = "https://en.wikipedia.org/wiki/C%2B%2B" target= "_blank">
-    <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg" alt="cpp" width="40" height="42"/>
+    <img src = "https://freesvg.org/img/1643312603cpp.png" alt="cpp" width="40" height="42"/>
   </a>
   <a href="https://www.arduino.cc" target="_blank"> 
     <img src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" alt="python" width="40" height="40"/> 
