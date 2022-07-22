@@ -1,4 +1,4 @@
-![website](sample.png)
+![website](coverimage.png)
 
 ## Hello, My name is Steven 👋
 
