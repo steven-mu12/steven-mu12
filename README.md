@@ -26,9 +26,6 @@ https://steven-portfolio-12.web.app
   <a href="https://www.arduino.cc" target="_blank"> 
     <img src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" alt="python" width="40" height="40"/> 
   </a>  
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
 </p>
 
 <!--
