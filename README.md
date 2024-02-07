@@ -24,7 +24,7 @@ https://stevenmu.me
   </a> 
 
   <a href="https://aws.amazon.com" target="_blank"> 
-    <img src=" https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/AWS-Dark.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/AWS-Light.svg" alt="aws" width="40" height="40"/> 
   </a> 
   
 </p>
